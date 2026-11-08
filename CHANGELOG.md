@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.1](https://github.com/kgoedecke/doop/compare/v0.14.0...v0.14.1) (2026-11-08)
+
+
+### Bug Fixes
+
+* **mcp:** report the running release as the MCP server version ([#446](https://github.com/kgoedecke/doop/issues/446)) ([3e67d48](https://github.com/kgoedecke/doop/commit/3e67d489158f9aa866086eefd8cef1d4d0c5ed15)), closes [#429](https://github.com/kgoedecke/doop/issues/429)
+
 ## [0.14.0](https://github.com/kgoedecke/doop/compare/v0.13.0...v0.14.0) (2026-11-08)
 
 
